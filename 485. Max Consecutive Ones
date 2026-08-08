@@ -1,0 +1,17 @@
+class Solution {
+    fun findMaxConsecutiveOnes(nums: IntArray): Int {
+        var count = 0
+        var max_count = 0
+
+        for (num in nums) {
+            if (num == 1) {
+                count++
+                max_count = maxOf(max_count, count)
+            } else {
+                count = 0
+            }
+        }
+
+        return max_count
+    }
+}
