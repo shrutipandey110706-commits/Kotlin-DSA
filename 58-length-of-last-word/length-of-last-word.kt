@@ -1,0 +1,20 @@
+class Solution {
+    fun lengthOfLastWord(s: String): Int {
+        var i = s.length - 1
+
+        // Remove spaces from the end
+        while (i >= 0 && s[i] == ' ') {
+            i--
+        }
+
+        var count = 0
+
+        // Count the last word
+        while (i >= 0 && s[i] != ' ') {
+            count++
+            i--
+        }
+
+        return count
+    }
+}
