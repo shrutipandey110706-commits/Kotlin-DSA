@@ -4,6 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
+	
 <strong>Input:</strong> nums = [-4,-1,0,3,10]
 <strong>Output:</strong> [0,1,9,16,100]
 <strong>Explanation:</strong> After squaring, the array becomes [16,1,0,9,100].
