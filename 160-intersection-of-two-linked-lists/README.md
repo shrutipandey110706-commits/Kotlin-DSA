@@ -4,6 +4,7 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/05/160_statement.png" style="width: 500px; height: 162px;" />
 <p>The test cases are generated such that there are no cycles anywhere in the entire linked structure.</p>
 
+
 <p><strong>Note</strong> that the linked lists must <strong>retain their original structure</strong> after the function returns.</p>
 
 <p><strong>Custom Judge:</strong></p>
