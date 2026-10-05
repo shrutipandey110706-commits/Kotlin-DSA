@@ -19,6 +19,7 @@
 
 <p><strong class="example">Example 2:</strong></p>
 
+
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = &quot;()[]{}&quot;</span></p>
 
