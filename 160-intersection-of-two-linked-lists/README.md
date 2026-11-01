@@ -12,6 +12,7 @@
 <p>The inputs to the <strong>judge</strong> are given as follows (your program is <strong>not</strong> given these inputs):</p>
 
 <ul>
+	
 	<li><code>intersectVal</code> - The value of the node where the intersection occurs. This is <code>0</code> if there is no intersected node.</li>
 	<li><code>listA</code> - The first linked list.</li>
 	<li><code>listB</code> - The second linked list.</li>
