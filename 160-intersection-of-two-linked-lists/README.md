@@ -13,6 +13,7 @@
 
 <ul>
 
+
 	
 	<li><code>intersectVal</code> - The value of the node where the intersection occurs. This is <code>0</code> if there is no intersected node.</li>
 	<li><code>listA</code> - The first linked list.</li>
