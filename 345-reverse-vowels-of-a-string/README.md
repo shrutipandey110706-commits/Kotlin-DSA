@@ -15,6 +15,7 @@
 <p>The vowels in <code>s</code> are <code>[&#39;I&#39;, &#39;e&#39;, &#39;e&#39;, &#39;A&#39;]</code>. On reversing the vowels, s becomes <code>&quot;AceCreIm&quot;</code>.</p>
 </div>
 
+
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
